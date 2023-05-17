@@ -1,0 +1,28 @@
+A 	pDecay
+B 	seen1p
+C	seenNp
+D	emergencyScore
+E	emergencyStuck
+F	carring
+G	tunnels
+H	alwaysReplan
+I	explore
+J	replan
+K	changePlanner
+L	hasPlan
+M	Threshold
+N 	Wait
+
+##Verified##
+	D||E->K=1
+	!(D||E)->K=0
+
+	!(L||B) -> I=1		I also activates alwaysReplan
+	L||B -> I=0
+	
+
+
+##Merge##
+	A with H -> needed for more complex stuff
+	L with G
+	
