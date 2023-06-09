@@ -1,5 +1,5 @@
 The authors are **Nicola Debole** and **Mateo Rodriguez**.
-This work is the project for the course **Autonomous Software Agents** at the **University of Trento**. 
+This work is the project for the **Autonomous Software Agents** course at the **University of Trento**. 
 
 # Usage
 
