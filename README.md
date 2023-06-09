@@ -23,7 +23,8 @@ The token can be retrieved by connecting to https://deliveroojs.onrender.com/ an
 You need to run two different agents otherwise the first one will just wait endlessly for the other.
 
 # Flowchart
-![Alt Basic flowchart](flowchart.png)
+A flowchart of a simplified version of our code to better understand it at first glance.
+![Basic flowchart](flowchart.png)
 
 # Features
 ## Ant Colony Optimization (ACO)
