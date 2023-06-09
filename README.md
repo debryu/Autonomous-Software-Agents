@@ -27,6 +27,6 @@ A flowchart of a simplified version of our code to better understand it at first
 ![Basic flowchart](flowchart.png)
 
 # Features
-## Ant Colony Optimization (ACO)
-# PDDL
-# Beliefs-Desire-Intention (BDI)
+- Ant Colony Optimization (ACO)
+- PDDL
+- Beliefs-Desire-Intention (BDI)
