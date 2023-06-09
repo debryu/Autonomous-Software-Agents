@@ -16,6 +16,16 @@ and in the same path from the terminal run
 ```bash
 node mainframe.js "CHOOSE A NAME FOR THE AGENT" "TOKEN"
 ```
+
+**Example** you can run separately this two commands:
+```bash
+node mainframe.js AgentSmith_0 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjhkZTYzMmJiNjYwIiwibmFtZSI6IkFnZW50U21pdGhfMCIsImlhdCI6MTY4NTk3NzExMn0.S9_nuZTVO5k6yQXyMNz4ia8YuJODnJJ8RqF36Mo56XE
+```
+
+```bash
+
+node mainframe.js AgentSmith_2 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImRlNjMyYmI2NjA0IiwibmFtZSI6IkFnZW50U21pdGhfMiIsImlhdCI6MTY4NTk3NzE3MX0.obnPhigqA-PDznKikl33TIuHdDYg4kvmrkQUIXH12KY
+```
 ---
 
 The token can be retrieved by connecting to https://deliveroojs.onrender.com/ and filling with the name of the agent when asked. 
